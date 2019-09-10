@@ -13,9 +13,9 @@ ___
 > Interested in helping us out more? Be the first to playtest our game as soon as a new update is release.
 
 ## MEET THE TEAM
-Martin Tsang
-Gursaanj Singh
-Natasha Miner
-William Beltran
-Daniel Steiner
-Michael Goh
+- Martin Tsang
+- Gursaanj Singh
+- Natasha Miner
+- William Beltran
+- Daniel Steiner
+- Michael Goh
