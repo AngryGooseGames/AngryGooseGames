@@ -7,4 +7,4 @@ Angry GGs only
 ## Projects
 
 ### BEEP BEEP
-[README](../BEEP-BEEP/README.md)
+[README](https://github.com/AngryGooseGames/Beep-Beep/blob/develop/README.md)
