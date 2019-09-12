@@ -22,3 +22,4 @@ ___
 - Michael Goh
 
 ## CONTACT US
+**Email:** angrygoosegame@gmail.com
