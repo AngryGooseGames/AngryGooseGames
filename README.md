@@ -19,3 +19,5 @@ ___
 - William Beltran
 - Daniel Steiner
 - Michael Goh
+- Jocelyn Tang
+- Magan Chang
