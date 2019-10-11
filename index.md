@@ -17,10 +17,12 @@ ___
 ## MEET THE TEAM
 - Martin Tsang
 - Gursaanj Singh
-- Natasha Miner
 - William Beltran
 - Daniel Steiner
+- Natasha Miner
 - Michael Goh
+- Jocelyn Tang
+- Magan Chang
 
 ## CONTACT US
 **Email:** angrygoosegame@gmail.com
