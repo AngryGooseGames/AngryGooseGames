@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Angry Goose Games
+title: Perigon Games
 ---
-Angry GGs only
-
 ## PROJECTS
 ___
 #### Beep Beep
@@ -12,17 +10,15 @@ ___
 
 > Interested in helping us out more? Be the first to playtest our game as soon as a new update is release.
 
-*** **LOOKING FOR AN ARTIST TO HELP TAKE OUR GAME TO THE NEXT LEVEL. PLEASE CONTACT US IF YOU ARE INTERESTED** ***
-
 ## MEET THE TEAM
 - Martin Tsang
 - Gursaanj Singh
 - William Beltran
 - Daniel Steiner
-- Natasha Miner
 - Michael Goh
 - Jocelyn Tang
 - Magan Chang
+- Natasha Miner
 
 ## CONTACT US
-**Email:** angrygoosegame@gmail.com
+**Email:** perigongames@gmail.com
